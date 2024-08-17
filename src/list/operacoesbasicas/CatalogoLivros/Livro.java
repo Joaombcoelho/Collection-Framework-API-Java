@@ -4,9 +4,9 @@ public class Livro {
 	//Atributos
 	private String titulo;
 	private String autor;
-	private Int anoPublicacao;
+	private int anoPublicacao;
 	
-	public Livro(String titulo, String autor, Int anoPublicacao) {
+	public Livro(String titulo, String autor, int anoPublicacao) {
 		super();
 		this.titulo = titulo;
 		this.autor = autor;
@@ -23,7 +23,7 @@ public class Livro {
 	}
 
 	
-	public Int getAnoPublicacao() {
+	public int getAnoPublicacao() {
 		return anoPublicacao;
 	}
 
