@@ -44,7 +44,7 @@ conjuntoConvidados.adicionarConvidado("Convidado 1", 1204);
 	System.out.println("Existem " + conjuntoConvidados.contarConvidados() + " convidados " +  "Dentro do set convidados");
 
 //conjuntoConvidados.removerConvidadoPorCodigoConvite(2011);
-	//System.out.println("Existem " + conjuntoConvidados.contarConvidados() + " convidados " +  "Dentro do set convidados");
+	System.out.println("Existem " + conjuntoConvidados.contarConvidados() + " convidados " +  "Dentro do set convidados");
 	
 conjuntoConvidados.exibirConvidados();
 System.out.println("Existem " + conjuntoConvidados.contarConvidados() + " convidados " +  "Dentro do set convidados");
